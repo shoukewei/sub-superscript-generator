@@ -18,3 +18,4 @@ A₁
 H₂O
 Clean. Simple. Professional.
 
+I published an introduction article on Medium: [Printing Math-Friendly Strings in Python Without LaTeX](https://medium.com/@shouke.wei/printing-math-friendly-strings-in-python-without-latex-9bfb57c5e621).
